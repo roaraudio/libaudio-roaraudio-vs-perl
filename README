@@ -1,0 +1,17 @@
+           Audio::RoarAudio::VS
+          ----------------------
+
+--- What is Audio::RoarAudio::VS?
+This Perl module is used to access RoarAudio servers using VS API.
+
+--- Building and Installing:
+
+TODO: write something here.
+
+--- Docs
+
+After you installed the package you can read the docs by using this command:
+ $ perldoc Audio::RoarAudio::VS
+
+Before you installed the packaged you can read the docs by using this command:
+ $ perldoc lib/Audio/RoarAudio/VS.pm
